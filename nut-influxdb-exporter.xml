@@ -14,7 +14,7 @@
   <Licence>Mozilla Public License 2.0</Licence>
   <WebUI/>
   <TemplateURL>https://github.com/jwillmer/unraid-templates</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/jwillmer/unraid-templates/master/images/nut.png</Icon>
+  <Icon>https://raw.githubusercontent.com/jwillmer/unraid-templates/main/images/nut.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
